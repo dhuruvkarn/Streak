@@ -1,0 +1,13 @@
+.secondMainContainerBox{
+  background-color: whitesmoke;
+  height: 1300px;
+  width: 100%;
+  display: flex;
+  gap: 4rem;
+}
+.sideBarContainer{
+  width: 15%;
+}
+.rightMainContentContainer{
+width: 85%;
+}
